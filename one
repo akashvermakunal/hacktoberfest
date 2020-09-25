@@ -64,6 +64,7 @@ int main()
         cout<<"Day "<<i+1<<":";
         print(A[i]);
         cout<<endl;
+        cout<<endl;
     }
     return 0;
 }
