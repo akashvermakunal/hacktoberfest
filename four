@@ -59,6 +59,7 @@ cout << ns << endl;
 int main()
 {
 string exp = "w1*f1*1/2+w2*f2*1/2+w3*f3";
+cout<<"Postfix conversion is";
 infixToPostfix(exp);
 return 0;
 }
