@@ -518,7 +518,7 @@ for (i = 0; i < 6; i++)
 {st[i] = new UGStudent;
 
 
-
+cout<<endl;
 //subject registration for (i = 0; i < 6; i += 2) {
 st[i]->registerSubject(s[0]);
  st[i]->registerSubject(s[2]);
